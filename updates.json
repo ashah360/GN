@@ -1,9 +1,9 @@
 {
   "win32-x64-prod": {
-    "readme": "Second release",
-    "update": "",
-    "install": "",
-    "version": "0.0.2"
+    "readme": "Test release",
+    "update": "https://github.com/ashah360/GN/releases/download/win32-x64-prod-v0.4.2",
+    "install": "https://github.com/ashah360/GN/releases/download/win32-x64-prod-v0.4.2/grubninja.Setup.0.4.2.exe",
+    "version": "0.4.2"
   },
   "darwin-x64-prod": {
     "readme": "This is a test release",
