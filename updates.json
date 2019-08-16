@@ -1,9 +1,9 @@
 {
   "win32-x64-prod": {
     "readme": "Added auto update capabilities",
-    "update": "https://github.com/ashah360/GN/releases/download/win32-x64-prod-v0.5.4",
-    "install": "https://github.com/ashah360/GN/releases/download/win32-x64-prod-v0.5.4/grubninja.Setup.0.5.4.exe",
-    "version": "0.5.4"
+    "update": "https://github.com/ashah360/GN/releases/download/win32-x64-prod-v0.5.9",
+    "install": "https://github.com/ashah360/GN/releases/download/win32-x64-prod-v0.5.9/grubninja.Setup.0.5.9.exe",
+    "version": "0.5.9"
   },
   "darwin-x64-prod": {
     "readme": "This is a test release",
